@@ -1,0 +1,22 @@
+body{
+  background-color: #D9F7E5;
+}
+
+hr{
+  background-color: transparent;
+  border-style: none;
+  border-top-style: dotted;
+  border-color:black;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1{
+  color:#0E7035;
+  font-family: georgia;
+}
+
+h2{
+  color: #0E7035;
+  font-family: georgia;
+}
